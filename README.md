@@ -20,3 +20,15 @@ Inicio: Abril/2019 - Novembro/2020 / Strat: Apr/2019- Nov/2020
 Para mais informações visite o meu cv no [LinkedIn](https://www.linkedin.com/in/luizmssegundo/)💻
 
 To more informations visit my cv on [LinkedIn](https://www.linkedin.com/in/luizmssegundo/)💻
+
+
+
+
+# GitHub
+![Luiz Segundo GitHub stats](https://github-readme-stats.vercel.app/api?username=martinssegudo&show_icons=true&theme=dark)
+
+
+[![Principais tecnologias](https://github-readme-stats.vercel.app/api/top-langs/?username=martinssegudo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
